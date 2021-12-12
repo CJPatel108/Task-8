@@ -1,0 +1,2 @@
+1, House Tyson, House, 27 Red Street, 23ref43, 1500000.0, 450000.0, 27/02/2019
+2, Apartment Goldman, Apartment, 23 Blue Street, 45ref25, 2500000.0, 40000.0, 23/02/2019
